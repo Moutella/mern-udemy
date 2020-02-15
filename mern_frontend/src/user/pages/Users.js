@@ -7,8 +7,8 @@ const Users = () => {
     {
       id: "1",
       name: "João Gabriel Moutella",
-      image: "https://avatars3.githubusercontent.com/u/19677195?s=460&v=4",
-      places: "7"
+      image: "https://pbs.twimg.com/profile_images/1038597135711789059/WQQWHaxE_400x400.jpg",
+      placeCount: 1
     }
   ];
   return <UserList items={USERS} />;
