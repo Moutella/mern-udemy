@@ -17,6 +17,7 @@
 
 .user-item a:hover,
 .user-item a:active {
+  transition: all 0.35s;
   background: #ffd900;
 }
 
